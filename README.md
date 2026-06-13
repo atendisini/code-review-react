@@ -1,5 +1,14 @@
-## Reflection
-- I learned how to create a repository and manage branches in GitHub
-- I understood how Pull Request is used for code review workflow
-- I experienced how reviewers provide feedback through comments
-- I improved my understanding of collaboration using GitHub workflow (branch → PR → review → revision)
+ Laporan
+
+- Repository: (https://github.com/atendisini/code-review-react)
+- Branch: login,profile,product,cart
+- Pull Request: #4
+- Reviewer: M. Adi Prasetyo, Sultan trenggan Febrio Al waly
+- Hasil Review: ditemukan bug pada validasi input
+- Status: sudah diperbaiki setelah review
+
+Refleksi
+
+- Saya belajar cara membuat repository dan branch di GitHub
+- Saya memahami alur Pull Request dalam code review
+- Saya belajar memberikan dan menerima feedback dari reviewer
