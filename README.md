@@ -3,7 +3,7 @@
 - Repository: (https://github.com/atendisini/code-review-react)
 - Branch: login,profile,product,cart
 - Pull Request: #4
-- Reviewer: M. Adi Prasetyo, Sultan trenggan Febrio Al waly
+- Reviewer: M. Adi Prasetyo, Sultan trenggana Febrio Al waly
 - Hasil Review: ditemukan bug pada validasi input
 - Status: sudah diperbaiki setelah review
 
