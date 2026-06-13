@@ -3,6 +3,7 @@
 - Repository: (https://github.com/atendisini/code-review-react)
 - Branch: login,profile,product,cart
 - Pull Request: #4
+- Author: Muhammad Tendi Irawan 
 - Reviewer: M. Adi Prasetyo, Sultan Trenggana Febrio Al waly
 - Hasil Review:
   Ditambahkan batas minimum jumlah barang menjadi 1
