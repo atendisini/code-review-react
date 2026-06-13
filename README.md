@@ -4,8 +4,12 @@
 - Branch: login,profile,product,cart
 - Pull Request: #4
 - Reviewer: M. Adi Prasetyo, Sultan Trenggana Febrio Al waly
-- Hasil Review: ditemukan bug pada validasi input
-- Status: sudah diperbaiki setelah review
+- Hasil Review:
+  Ditambahkan batas minimum jumlah barang menjadi 1
+  Input email diperbaiki menggunakan type="email"
+  Input harga diperbaiki menggunakan type="number"
+  Input password diperbaiki menggunakan type="password"
+- Status: dalam proses perbaikan
 
 Refleksi
 
